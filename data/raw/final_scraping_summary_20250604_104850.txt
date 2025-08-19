@@ -1,0 +1,14 @@
+Scraping Summary - 2025-06-04 10:48:51.025787
+==================================================
+Total branches found: 598
+Total reviews collected: 9178
+
+Branches by bank:
+  BMCE Bank of Africa: 82 branches
+  Société Générale Maroc: 84 branches
+  CIH Bank: 83 branches
+  Crédit du Maroc: 76 branches
+  Crédit Agricole du Maroc: 79 branches
+  Bank Al-Maghrib: 18 branches
+  Attijariwafa Bank: 88 branches
+  Banque Populaire: 88 branches

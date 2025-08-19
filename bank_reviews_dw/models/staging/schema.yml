@@ -1,0 +1,17 @@
+version: 2
+
+sources:
+  - name: staging
+    database: bank_reviews_dw
+    schema: staging
+    tables:
+      - name: stg_branches
+      - name: stg_reviews
+  
+  - name: analytics
+    database: bank_reviews_dw
+    schema: analytics
+    tables:
+      - name: sentiment_analysis
+      - name: review_topics
+      - name: topics
