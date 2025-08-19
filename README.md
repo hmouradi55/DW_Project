@@ -21,5 +21,7 @@ Ce projet met en place un pipeline complet de traitement de données issues d'av
 - Docker 
  
 ## Auteurs 
-Marwa Takatri 
 Houda Mouradi 
+
+Marwa Takatri 
+
