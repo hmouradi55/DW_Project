@@ -1,6 +1,5 @@
 """
 Google Maps Bank Reviews Scraper for Moroccan Banks - Improved Version
-Author: Data Engineering Team
 Date: 2025-01-06
 Description: Enhanced scraper that first collects all branch URLs, then scrapes reviews
 """
